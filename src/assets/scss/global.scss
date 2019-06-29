@@ -94,6 +94,7 @@ code {
 	font-family: monospace;
 	font-size: 85%;
 	padding: 0.25rem 0.5rem;
+	white-space: nowrap;
 }
 
 pre {
@@ -106,5 +107,6 @@ pre {
 	& code {
 		font-size: 100%;
 		padding: 0;
+		white-space: inherit;
 	}
 }
