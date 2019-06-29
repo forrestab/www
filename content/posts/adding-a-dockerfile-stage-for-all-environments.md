@@ -1,6 +1,6 @@
 ---
 title: Adding a dockerfile stage for all environments
-date: 2019-06-04T23:45:16.857Z
+date: 2019-06-29T03:13:00.000Z
 tags:
   - docker
   - visual-studio
